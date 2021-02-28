@@ -24,21 +24,6 @@ Data set was scraped every few months from Craigslist since October 2018 and was
 Data file is 1.34 GB containing 458,213 observations and 26 dimensions.
 
 
-Data Folder Files:
-1. vehicles.csv - raw dataset file downloaded from from kaggle 
-2. df_cleaned.csv – pre-processed file, after cleaning and organizing
-3. X_test.csv - Split test data without NLP 
-4. X_test_tfidf.csv - Split test data with NLP processing 
-5. X_train.csv - Split train data without NLP
-6. X_train_tfidf.csv - Split train data with NLP processing
-7. X_val.csv- Split tval data without NLP
-8. X_val_tfidf.csv - Split train data with NLP processing
-9. y_train.csv - y_train data file
-10.y_test.csv - y_test data file
-11.y_val.csv - y_val data file
-12. imp_feature
-13. imp_fetures_NLP
-
 ### Thank you very much for your interest!
 Please reach out through LinkedIn for hiring inquiries.
 https://www.linkedin.com/in/zeeshanahmed-ds/
