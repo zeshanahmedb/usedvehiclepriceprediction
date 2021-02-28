@@ -16,8 +16,6 @@ scikit-learn for machine learning toolbox conda install scikit-learn
 
 Natural Language Toolkit for NLP conda install nltk
 
-```
-
 ### Data
 
 Data was found through open-source website Kaggle (https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
