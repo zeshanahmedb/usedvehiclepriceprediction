@@ -1,4 +1,4 @@
-#Predicting Used Vehicle Price
+# Predicting Used Vehicle Price
 
 Buying or Selling a used vehicle is one of an important decision. In USA 838 people* out of 1000 have access to a vehicle and in Canada 685* people out of 1000 have access to a vehicle. Determining strike price to sell/buy is a cumbersome process which takes time and energy. Hence, my project is to provide determined price to sell/buy a vehicle with ease and comfort. 
 Through building used vehicle price prediction model, I would provide individuals(consumer) as well as dealer the ease to determining strike price. Hence, avoiding losing if vehicle is sold on a lower than market price and, also losing if buying at price higher than market price. 
